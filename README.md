@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I am Orient, Accountant by training, analyst by passion. I love turning rows of financial data into dashboards that actually tell a story. My goal? To make numbers speak clearly enough for management to make smarter moves.
 
-🔗 Let's Connect
+#🔗 Let's Connect
 
 <p align="left">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-username/" target="_blank">

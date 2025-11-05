@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Orient, Accountant by training, analyst by passion. I love turning rows of financial data into dashboards that actually tell a story. My goal? To make numbers speak clearly enough for management to make smarter moves.
 
 <!--
 **ofattaban/ofattaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

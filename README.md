@@ -45,7 +45,7 @@ An interactive dashboard analyzing 3 years of retail data to identify sales tren
 This Looker Studio dashboard analyzes and visualizes Salik (Dubai's toll system) transaction data from an export file. It provides a comprehensive overview of toll expenses by tracking KPIs like total spend, average cost, and transaction volume. Key features include an interactive commute pattern heatmap to identify daily travel routines and detailed breakdowns of spending by toll location and route.
 
 <a href="https://lookerstudio.google.com/reporting/29b2cd0d-ebc0-4598-8c63-9645d11e5e0f/page/0KOeF">
-<img src="https://www.google.com/search?q=https://placehold.co/800x400/4a5568/ffffff%3Ftext%3DWeb%2BTraffic%2BDashboard%2BScreenshot%26font%3Dinter" alt="Web Traffic Dashboard Screenshot"/>
+<img src="https://www.google.com/search?q=https://placehold.co/800x400/4a5568/ffffff%3Ftext%3DWeb%2BTraffic%2BDashboard%2BScreenshot%26font%3Dinter" alt="Toll-E-Gate (Salik) Expense & Travel Analysis"/>
 </a>
 
 ➡️ View Live Dashboard | ➡️ View Project Case Study & Code
